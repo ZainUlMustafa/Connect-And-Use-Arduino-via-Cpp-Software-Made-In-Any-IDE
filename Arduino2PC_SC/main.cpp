@@ -3,7 +3,7 @@
 //Rules:
 /*
 1. Check if connection with Arduino is made
-2. If Arduino is connected then take input from user in a String
+2. If Arduino is connected take input from user in a String
 3. Make a char array of the size of string + 1
 4. Copy the whole string into the char array
 5. Add escape sequence \n because this represents the end of a line in Serial Comm port
