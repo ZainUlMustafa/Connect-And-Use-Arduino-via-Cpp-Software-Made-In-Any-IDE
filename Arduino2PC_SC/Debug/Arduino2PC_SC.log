@@ -1,0 +1,38 @@
+﻿Build started 8/15/2017 8:05:33 PM.
+     1>Project "D:\Programming\C++ and C\Console\Arduino2PC_SC\Arduino2PC_SC\Arduino2PC_SC.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Arduino2PC_SC.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Visual Studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\visual studio 2010\vc\include\xutility(2227): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 d:\visual studio 2010\vc\include\xutility(2212) : see declaration of 'std::_Copy_impl'
+                 d:\programming\c++ and c\console\arduino2pc_sc\arduino2pc_sc\main.cpp(34) : see reference to function template instantiation '_OutIt std::copy<std::_String_iterator<_Elem,_Traits,_Alloc>,char*>(_InIt,_InIt,_OutIt)' being compiled
+                 with
+                 [
+                     _OutIt=char *,
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>,
+                     _InIt=std::_String_iterator<char,std::char_traits<char>,std::allocator<char>>
+                 ]
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\C++ and C\Console\Arduino2PC_SC\Debug\Arduino2PC_SC.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Arduino2PC_SC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Programming\C++ and C\Console\Arduino2PC_SC\Debug\Arduino2PC_SC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programming\C++ and C\Console\Arduino2PC_SC\Debug\Arduino2PC_SC.lib" /MACHINE:X86 Debug\Arduino2PC_SC.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\SerialPort.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Arduino2PC_SC.exe.embed.manifest" /manifest Debug\Arduino2PC_SC.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Arduino2PC_SC.vcxproj -> D:\Programming\C++ and C\Console\Arduino2PC_SC\Debug\Arduino2PC_SC.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Arduino2PC_SC.unsuccessfulbuild".
+         Touching "Debug\Arduino2PC_SC.lastbuildstate".
+     1>Done Building Project "D:\Programming\C++ and C\Console\Arduino2PC_SC\Arduino2PC_SC\Arduino2PC_SC.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.00
