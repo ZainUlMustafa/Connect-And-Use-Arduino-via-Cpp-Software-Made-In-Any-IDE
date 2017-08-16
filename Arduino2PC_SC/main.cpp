@@ -21,6 +21,8 @@ using namespace std;
 char output[MAX_DATA_LENGTH];
 char incomingData[MAX_DATA_LENGTH];
 
+// change the name of the port with the port name of your computer
+// must remember that the backslashes are essential so do not remove them
 char *port = "\\\\.\\COM3";
 
 int main(){
