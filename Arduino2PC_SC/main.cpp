@@ -1,4 +1,4 @@
-/* Zain Ul Mustafa */
+/* Zain Ul Mustafa 2017 */
 
 //Rules:
 /*
@@ -10,6 +10,20 @@
 6. Write the whole char array into the buffer (a buffer takes the info forward to the Serial Comm Port)
 7. Read from the Arduino if data is received successfully or if the action is taken as per needed
 */
+
+//Connect with me:
+/*	Twitter: http://www.twitter.com/ZainsOfficial/
+	Facebook: http://www.facebook.com/ZainsOfficial/
+	Github: http://github.com/ZainUlMustafa/
+*/
+
+/* This OpenCV software is allowed for any user to copy, modify, merge, and distribute in any of his/her project.
+Complete repository for this project is available on github. If you find this project anywhere except github, it
+is to be noted that it is not made by me and not distributed by me. 
+Please follow this link to get to the original repository of github for this project
+Github shortened link (no spam and no ads): http://bit.ly/2vGkinQ
+*/
+
 /* PC 2 Arduino */
 
 #include<iostream>
