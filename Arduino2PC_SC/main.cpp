@@ -17,7 +17,7 @@
 	Github: http://github.com/ZainUlMustafa/
 */
 
-/* This OpenCV software is allowed for any user to copy, modify, merge, and distribute in any of his/her project.
+/* This software is allowed for any user to copy, modify, merge, and distribute in any of his/her project.
 Complete repository for this project is available on github. If you find this project anywhere except github, it
 is to be noted that it is not made by me and not distributed by me. 
 Please follow this link to get to the original repository of github for this project
