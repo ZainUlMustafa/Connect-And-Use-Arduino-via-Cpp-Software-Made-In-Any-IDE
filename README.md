@@ -1,8 +1,11 @@
 # Connect-And-Use-Arduino-via-Cpp-Software-Made-In-Any-IDE
 Learn to make use of Arduino using your software designed in C++, Python, or Java in your electronic projects.
 
-DISCLAMER:
-This Serial library is not created by me, however, the code written to use this library is written by me. This is an open-source library and code so use, merge, or distribute it anywhere you want without any permissions required.
+### DISCLAMER:
+
+This Serial code is now maintained by me but as perviously the code is open-source. Do whatever you want with it. Yippie! 
+
+~~This Serial library is not created by me, however, the code written to use this library is written by me. This is an open-source library and code so use, merge, or distribute it anywhere you want without any permissions required.~~
 <hr>
 CLICK ON PICTURE TO WATCH THIS TUTORIAL BEFORE DOING ANYTHING -- HIGHLY RECOMMENDED
 <hr>
